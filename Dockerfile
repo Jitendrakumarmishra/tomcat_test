@@ -1,5 +1,5 @@
 FROM tomcat:8.0-alpine
-LABEL maintainer="test3_calljitu@gmail.com"
+LABEL maintainer="test4_calljitu@gmail.com"
 
 ADD sample.war /usr/local/tomcat/webapps/
 
